@@ -1,0 +1,22 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+  background-color: pink;
+  border-color: black;
+}
+h2 {
+  color: red;
+  text-align: center;
+}
+p {
+  colour: grey;
+    font-family:monospace;
+}
+
+.img {
+    text-align: center;
+}
